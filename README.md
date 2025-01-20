@@ -14,7 +14,7 @@ The group is currently managed by [professor Albert Gatt](https://www.uu.nl/staf
 
 The group's research themes include, but are not limited to:
 * **[Meaning variation in NLP](https://www.uu.nl/en/research/ai-data-science/natural-language-processing/research-themes/ained-project-on-meaning-variation-in-nlp)**
-* **[Societal aspects of NLP](https://www.uu.nl/en/research/ai-data-science/natural-language-processing/nlp-and-society-lab)**
+* **[Societal aspects of NLP](https://nlpsoc.github.io/)**
 * **[Vision and language modelling](https://www.uu.nl/en/research/ai-data-science/natural-language-processing/vision-and-language)**
 * **[Natural language generation](https://www.uu.nl/en/research/ai-data-science/natural-language-processing/natural-language-generation)**
 

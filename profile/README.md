@@ -2,6 +2,10 @@
 
 **Natural Language Processing** is one of the research groups of the division **AI & Data Science** within the department of **[Information and Computing sciences](https://www.uu.nl/en/organisation/department-of-information-and-computing-sciences)**.
 
+## Group meetings
+
+The NLP group holds weekly group meetings. The schedule and slides are archived in [this repository](https://github.com/cs-nlp-uu/uunlp-group-meeting).
+
 ## Brief History of the NLP group:
 
 The NLP group was founded in 2018, when Prof. Kees van Deemter and Dr. Dong Nguyen joined the UU. Over the years, various people joined the NLP group, broadening its range and reinforcing our focus on mainly theoretical aspects of NLP, covering both symbolic and statistical approaches. An important recent focus is explainability.
